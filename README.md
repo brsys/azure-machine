@@ -1,4 +1,4 @@
-# Hello Welcome to my Azure machine creator 
+# Welcome to my Azure machine creator 
 Its a easy way to create lab and test servers using azure. 
 
 Version 0.1 allows you create your windows virtual machine with IIS in us east location. 
