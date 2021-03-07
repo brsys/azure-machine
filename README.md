@@ -2,6 +2,9 @@
 Its a easy way to create lab and test servers using azure. 
 - Pre requisites 
 
-Powershell 7.x 
-Azure PowerShell module https://docs.microsoft.com/en-us/powershell/azure/?view=azps-5.6.0
+  -Powershell 7.x 
+  -Azure PowerShell module https://docs.microsoft.com/en-us/powershell/azure/?view=azps-5.6.0
+  
+  
+  Make sure you use the command Connect-AzAccount to link your azure account to your powershell session. 
 
